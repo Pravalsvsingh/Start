@@ -1,2 +1,3 @@
 # Start
-This is my First repository
+This is my first git repository
+Author - Start my career with Computer science 
